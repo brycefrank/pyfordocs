@@ -1,0 +1,7 @@
+pyfor\.test module
+==================
+
+.. automodule:: pyfor.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
